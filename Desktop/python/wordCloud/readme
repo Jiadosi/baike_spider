@@ -2,3 +2,4 @@
 wordCloud1124.py 词云
 comments.txt 爬的结果
 test.jpg 词云结果
+stopwords.txt 自己写的停用词（不全）
